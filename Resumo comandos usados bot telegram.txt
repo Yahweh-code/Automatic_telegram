@@ -1,0 +1,25 @@
+Resumo comandos usados bot telegram
+
+
+npm init -y
+
+npm i node telegram bot api
+
+
+
+criar .env, .gitignore
+
+
+npm i typescript --save-dev
+
+npm tsx init -y
+
+
+
+tudo que é javascript vira -> .ts
+
+
+tirar todos os requires  e colocar (import from telegram bot...)
+
+
+criar a pasta @types dentro de src e criar o arquivo enviroment.d.ts
